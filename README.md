@@ -1,0 +1,1 @@
+Landing page that shows actual time and changes its background image depending on the time of the day.
